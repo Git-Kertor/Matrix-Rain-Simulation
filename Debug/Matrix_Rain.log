@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Matrix_Rain\main.cpp(53,37): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Matrix_Rain\main.cpp(59,37): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Matrix_Rain.vcxproj -> C:\Matrix_Rain\Debug\Matrix_Rain.exe
